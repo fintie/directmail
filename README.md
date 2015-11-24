@@ -12,16 +12,13 @@ Walker needed to input the unique job ID in the App before Start.
 # Project Scope:
 
 - Admin End
-
-* Create Area
-* Create User
-* Task View (status:accept/reject; progress: tracking map) with Email Notification
-* Task Management (Add/Edit/Delete)
-
+    * Create Area
+    * Create User
+    * Task View (status:accept/reject; progress: tracking map) with Email Notification
+    * Task Management (Add/Edit/Delete)
 
 - Worker End
-
-* Task View (status:accept/reject; progress: tracking map) with Email Notification
-* Task Management (Add/Edit/Delete)
-* GPS Tracking while working( Walker need to input the unique job ID in the App before Start)
+    * Task View (status:accept/reject; progress: tracking map) with Email Notification
+    * Task Management (Add/Edit/Delete)
+    * GPS Tracking while working( Walker need to input the unique job ID in the App before Start)
 
